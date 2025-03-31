@@ -20,7 +20,7 @@ Scikit-learn: Machine learning library for model building
 Seaborn/Matplotlib: Visualization libraries for EDA and results presentation
 
 How to Run:
-git clone https://github.com/gudythecoder/Customer-Churn-Prediction
+git clone https://github.com/gudythecoder/Customer-Churn-Prediction.git
 
 Install dependencies:
 pip install -r requirements.txt
